@@ -1,0 +1,11 @@
+body{
+    background-color: darkorchid;
+    margin:20px ;
+    padding: 20px;
+}
+ .carousel-inner img{
+     height: 700px;
+     width: 100px;
+ }
+
+
