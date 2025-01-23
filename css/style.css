@@ -7,5 +7,26 @@ body{
      height: 700px;
      width: 100px;
  }
+.one{
+    background-color:#146c43 ;
+    height: 70vh
+}
+.two{
+    background-color: #bb2d3b;
+    height:70vh;
+}
+.three{
+    background-color:#332701;
+    height: 70vh;
+}
+.four{
+    background-color: #ffc107;
+    height:70vh ;
+}
+
+.per img{
+    height:50vh;
+    width: 130%;
+}
 
 
